@@ -1,6 +1,6 @@
 # Python CodeCamp Projects
 
-This repository contains a collection of projects and exercises I completed while working through a Python CodeCamp. The goal of this repository is to document my progress, strengthen core programming skills, and build a solid foundation in Python.
+This repository contains a collection of projects and exercises I completed while working through freecodecamp's python certification course. The goal of this repository is to document my progress, strengthen core programming skills, and build a solid foundation in Python.
 
 ---
 
